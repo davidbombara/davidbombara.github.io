@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-07-23 13:11:00 +0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New blog layout is now live! It's based on [al-folio](https://github.com/alshedivat/al-folio) :tada:
