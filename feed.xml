@@ -1,437 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://matteospanio.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://matteospanio.github.io/" rel="alternate" type="text/html" hreflang="it" /><updated>2021-11-27T23:49:53+01:00</updated><id>https://matteospanio.github.io/feed.xml</id><title type="html">blank</title><subtitle>Programma di sala interattivo per la laurea di Matteo Spanio.
-</subtitle><entry><title type="html">Tre pezzi per clarinetto solo di Igor Stravinskij</title><link href="https://matteospanio.github.io/blog/2021/stravisnkij/" rel="alternate" type="text/html" title="Tre pezzi per clarinetto solo di Igor Stravinskij" /><published>2021-11-25T14:39:00+01:00</published><updated>2021-11-25T14:39:00+01:00</updated><id>https://matteospanio.github.io/blog/2021/stravisnkij</id><content type="html" xml:base="https://matteospanio.github.io/blog/2021/stravisnkij/">&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://matteospanio.github.io/assets/audio/stravinskij.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
-&lt;h2 id=&quot;contestualizzazione&quot;&gt;Contestualizzazione&lt;/h2&gt;
-
-&lt;p&gt;Le composizioni del periodo Svizzero della vita di Igor Stravinskij secondo Taruskin sarebbero influenzate da «German, Irish, French (Breton), Italian, Spanish, and even Brazilian sources, in addition to various mongrel types of North American popular music.»&lt;d-cite key=&quot;taruskin&quot;&gt;&lt;/d-cite&gt;
-È in questo contesto che vennero composti i &lt;em&gt;Three Pieces for Clarinet Solo&lt;/em&gt; (1918).&lt;/p&gt;
-
-&lt;p&gt;Nonostante la grande quantità di materiali e articoli pubblicati sulla produzione di Stravinskij, non esiste una ricostruzione univoca sulle origini e il significato dei &lt;em&gt;Three Pieces&lt;/em&gt;. Stravinskij stesso, tentando di chiarire la questione, si contraddice in varie occasioni a riguardo&lt;d-cite key=&quot;siuc&quot;&gt;&lt;/d-cite&gt;,
-per esempio si esprime così parlando delle composizioni ragtime prima del 1919:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;«my knowledge of jazz was derived exclusively from copies of sheet music, and as I had never actually heard any of the music performed, I borrowed its rhythmic style, not as played, but as written. I could imagine jazz sound, however, or so I liked to think. Jazz meant, in any case, a wholly new sound in my mind, and &lt;em&gt;Histoire&lt;/em&gt; marks my final break with the Russian orchestral school […]»&lt;d-cite key=&quot;expositions&quot;&gt;&lt;/d-cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;ma rivolgendosi a Edward Evans afferma che i &lt;em&gt;Three Pieces&lt;/em&gt; sarebbero ispirati dal &lt;em&gt;Characteristic Blues&lt;/em&gt; di Sidney Bechet. Cosa che sappiamo non essere possibile in quanto il primo viaggio in Europa di Bechet è avvenuto nel 1919 come musicista della Will Marion Cook’s Southern Syncopated Orchestra&lt;d-cite key=&quot;10.2307/742157&quot;&gt;&lt;/d-cite&gt;, e non poteva neppure averne sentito una registrazione, in quanto il &lt;em&gt;Characteristic Blues&lt;/em&gt; non venne registrato prima del 1937&lt;d-cite key=&quot;blues&quot;&gt;&lt;/d-cite&gt;, eseguito da &lt;em&gt;Noble Sissel’s Swingsters&lt;/em&gt; con Sidney Bechet}.
-Ciò evidenzia che se già durante la vita dell’autore non vi fosse chiarezza riguardo la motivazione della nascita di questi pezzi, tanto più oggi, ad anni dalla morte di Stravinskij, il tentativo di ricondurre la scrittura di quest’opera ad un significato particolare risulta quantomeno difficile, se non insensato.&lt;/p&gt;
-
-&lt;p&gt;Non rimane altro allora che guardare alla musica stessa per trovarvi il suo significato: una testimonianza che ce ne dà conferma è quella di Rosario Mazzeo, ex clarinettista alla Boston Symphony, il quale racconta sulla rivista &lt;em&gt;The Clarinet&lt;/em&gt; che lo stesso Stravinskij gli avrebbe detto: ``qualunque cosa da cui [Stravinskij] fosse stato influenzato mentre scriveva per il clarinetto era chiaramente indicato dai segni presenti nel testo musicale’’.&lt;d-cite key=&quot;mazzeo&quot;&gt;&lt;/d-cite&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;genesi-dellopera&quot;&gt;Genesi dell’opera&lt;/h2&gt;
-
-&lt;p&gt;I &lt;em&gt;Three Pieces for Clarinet&lt;/em&gt; di Stravinskij furono composti a Morges&lt;d-footnote&gt;Cittadina svizzera vicina a Losanna, dove l'autore si rifugiò dalla guerra con la famiglia nell quinquennio tra il 1915 e il 1920.&lt;/d-footnote&gt; nel 1918, eseguiti per la prima volta l’8 novembre 1919 da Edmond Allegra e pubblicati da J. &amp;amp; W. Chester, Ltd. a Londra e Ginevra nel 1920.&lt;/p&gt;
-
-&lt;p&gt;L’opera venne composta per Werner Reinhart, un filantropo svizzero di Winterthur &lt;d-footnote&gt;Werner Reinhart fu un mercante svizzero di compositori e scrittori, in particolare Igor Stravinskij e Rainer Maria Rilke. Reinhart conobbe e corrispose con molti artisti e musicisti della prima metà del XX secolo nel mondo europeo, e la sua Villa Rychenberg a Winterthur divenne un punto d'incontro internazionale per musicisti e scrittori.&lt;/d-footnote&gt;
-, anche clarinettista dilettante&lt;d-cite key=&quot;vera1978&quot;&gt;&lt;/d-cite&gt; &lt;d-footnote&gt;In una lettera di Ansermet si riporta che ad una esecuzione della Suite de _L'Uccello di Fuoco_ che si tenne a Winterthur, Reinhart suonava il clarinetto basso.&lt;/d-footnote&gt;, che finanziò le spese per la realizzazione de &lt;em&gt;L’Histoire du Soldat&lt;/em&gt;.
-Nella sua autobiografia Stravinskij dice così riguardo l’&lt;em&gt;Histoire&lt;/em&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;«I have kept a special place in my memory for that performance, and I am grateful to my friends and collaborators, as well as to Werner Reinhart, who, having been unable to find any other backers, generously financed the whole enterprise himself. As a token of my gratitude and friendship, I wrote for, and dedicated to him, Three Pieces for Clarinet Solo, he being familiar with that instrument and liking to play it among his intimates»&lt;d-cite key=&quot;rice2017&quot;&gt;&lt;/d-cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Quindi le origini dei &lt;em&gt;Three Pieces&lt;/em&gt; e de &lt;em&gt;L’Histoire&lt;/em&gt; sono strettamente legate. Il direttore della prima de &lt;em&gt;L’Histoire&lt;/em&gt;, Ernest Ansermet, lui stesso affascinato dal jazz americano e in particolare dal suono del clarinettista jazz Sidney Bechet&lt;d-cite key=&quot;ansermet&quot;&gt;&lt;/d-cite&gt;, diede a Stravinskij una raccolta di musica ragtime sotto forma di riduzioni per pianoforte e parti strumentali che Stravinskij copiò in partitura. Nel 1961 Stravinskij ricorda: con questi pezzi davanti a me composi il &lt;em&gt;Ragtime&lt;/em&gt; nell’&lt;em&gt;Histoire du Soldat&lt;/em&gt;.’‘&lt;d-cite key=&quot;dialogues&quot;&gt;&lt;/d-cite&gt; Infatti il &lt;em&gt;Ragtime&lt;/em&gt; de &lt;em&gt;L’Histoire&lt;/em&gt; e i &lt;em&gt;Three Pieces&lt;/em&gt; condividono molte somiglianze.&lt;d-cite key=&quot;10.2307/742157&quot;&gt;&lt;/d-cite&gt;
-Il ruolo del clarinetto nel &lt;em&gt;Ragtime&lt;/em&gt; è quello di arricchire, attraverso interventi motivici, la linea del violino. Un inciso in particolare salta all’occhio perchè appare anche nel secondo dei &lt;em&gt;Three Pieces&lt;/em&gt;. Inoltre il frequente utilizzo del ritmo sincopato nel &lt;em&gt;Ragtime&lt;/em&gt; e il terzo pezzo evidenzia un altro punto in comune.&lt;/p&gt;
-
-&lt;h2 id=&quot;partitura&quot;&gt;Partitura&lt;/h2&gt;
-
-&lt;div class=&quot;publications&quot;&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm-2 abbr&quot;&gt;
-  
-    
-    &lt;abbr class=&quot;badge&quot;&gt;Score&lt;/abbr&gt;
-    
-  
-  &lt;/div&gt;
-
-  &lt;div id=&quot;stravinskij&quot; class=&quot;col-sm-8&quot;&gt;
-    
-      &lt;div class=&quot;title&quot;&gt;Three Pieces for Clarinet Solo&lt;/div&gt;
-      &lt;div class=&quot;author&quot;&gt;
-        
-          
-          
-          
-          
-          
-          
-            
-              Stravisnkij, Igor
-            
-          
-        
-      &lt;/div&gt;
-
-      &lt;div class=&quot;periodical&quot;&gt;
-      
-      
-      
-        1920
-      
-      &lt;/div&gt;
-    
-
-    &lt;div class=&quot;links&quot;&gt;
-    
-    
-    
-    
-    
-      
-      &lt;a href=&quot;/assets/pdf/Stravinsky_-_3_Pieces_for_Clarinet_Solo.pdf&quot; class=&quot;btn btn-sm z-depth-0&quot; role=&quot;button&quot;&gt;PDF&lt;/a&gt;
-      
-    
-    
-    
-    
-    
-    
-    
-    &lt;/div&gt;
-
-    &lt;!-- Hidden abstract block --&gt;
-    
-
-    &lt;!-- Hidden bibtex block --&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;&lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Matteo Spanio</name></author><summary type="html">Your browser does not support the audio element. Contestualizzazione</summary></entry><entry><title type="html">Sonatina per clarinetto di B. Martinů</title><link href="https://matteospanio.github.io/blog/2021/martinu/" rel="alternate" type="text/html" title="Sonatina per clarinetto di B. Martinů" /><published>2021-11-25T13:39:00+01:00</published><updated>2021-11-25T13:39:00+01:00</updated><id>https://matteospanio.github.io/blog/2021/martinu</id><content type="html" xml:base="https://matteospanio.github.io/blog/2021/martinu/">&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://matteospanio.github.io/assets/audio/martinu.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
-&lt;h2 id=&quot;contestualizzazione&quot;&gt;Contestualizzazione&lt;/h2&gt;
-
-&lt;p&gt;Martinů scrisse la Sonatina per clarinetto e pianoforte nel 1956 durante un soggiorno a New York. Il pezzo è raramente citato al di fuori del mondo del clarinetto e apparentemente non occupa un posto speciale tra la prolifica produzione del compositore. Le sei sinfonie e altre opere orchestrali, operistiche e corali su larga scala come &lt;em&gt;Gilgamesh&lt;/em&gt; sono le opere per le quali Martinů ha ricevuto i maggiori e duraturi riconoscimenti, eppure si possono riconoscere diversi tratti interessanti tipici dell’autore nella sonatina.&lt;/p&gt;
-
-&lt;p&gt;La Sonatina rivela l’influenza del neoclassicismo di Francis Poulenc e Igor Stravinsky e la “ricca tavolozza di toni-colori” di Claude Debussy. È pieno di danze (polka) e ritmi di marcia e corse virtuosistiche. Passaggi di natura allegra contenenti sincopi inaspettate si alternano a momenti lirici dal tono meno allegro. In questa musica si può vedere la nostalgia del compositore per il tempo più felice e produttivo che aveva trascorso a Parigi (1923-1940), anni pieni di vivaci interazioni con il gruppo di “Les Six”. Nonostante la sua eleganza e finitura, la musica abbraccia anche la forza appassionata delle sue radici ceche.&lt;d-cite key=&quot;martinu2&quot;&gt;&lt;/d-cite&gt;&lt;/p&gt;
-
-&lt;p&gt;Il pezzo è scritto come un movimento continuo composto da sezioni contrastanti. Nella Sonatina, come del resto in gran parte della produzione del compositore, Martinů evita le forme musicali standard. Questa era una caratteristica della sua musica all’inizio, che è in gran parte ciò che lo ha messo nei guai con i suoi professori mentre era studente al Conservatorio di Praga. Di conseguenza, le sue opere, a volte, sono in qualche modo flussi di coscienza, con le relazioni tra una sezione e l’altra difficili da cogliere per gli ascoltatori, o, forse, genuinamente tenui.&lt;d-cite key=&quot;martinu1&quot;&gt;&lt;/d-cite&gt;
-La Sonatina conferma le abitudini del compositore e si può notare nella struttura formale non divisa in movimenti (anche se comunque ternaria) e il contenuto: per esempio quello che potrebbe essere individuato come il pimo movimento presenta una ripresa come da prassi della forma sonata in cui però il materiale è ripetuto pedissequamente, senza alcuna variazione melodica o armonica fino all’inciso conclusivo.&lt;/p&gt;
-
-&lt;h2 id=&quot;partitura&quot;&gt;Partitura&lt;/h2&gt;
-
-&lt;div class=&quot;publications&quot;&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm-2 abbr&quot;&gt;
-  
-    
-    &lt;abbr class=&quot;badge&quot;&gt;Score&lt;/abbr&gt;
-    
-  
-  &lt;/div&gt;
-
-  &lt;div id=&quot;martinu_score&quot; class=&quot;col-sm-8&quot;&gt;
-    
-      &lt;div class=&quot;title&quot;&gt;Clarinet Sonatina &lt;/div&gt;
-      &lt;div class=&quot;author&quot;&gt;
-        
-          
-          
-          
-          
-          
-          
-            
-              Martinů, Bohuslav
-            
-          
-        
-      &lt;/div&gt;
-
-      &lt;div class=&quot;periodical&quot;&gt;
-      
-      
-      
-        1957
-      
-      &lt;/div&gt;
-    
-
-    &lt;div class=&quot;links&quot;&gt;
-    
-    
-    
-    
-    
-      
-      &lt;a href=&quot;/assets/pdf/Martinu-Clarinet-Sonatina.pdf&quot; class=&quot;btn btn-sm z-depth-0&quot; role=&quot;button&quot;&gt;PDF&lt;/a&gt;
-      
-    
-    
-    
-    
-    
-    
-    
-    &lt;/div&gt;
-
-    &lt;!-- Hidden abstract block --&gt;
-    
-
-    &lt;!-- Hidden bibtex block --&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;&lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Matteo Spanio</name></author><summary type="html">Your browser does not support the audio element. Contestualizzazione</summary></entry><entry><title type="html">Sonatina per clarinetto di J. Horovitz</title><link href="https://matteospanio.github.io/blog/2021/horovitz/" rel="alternate" type="text/html" title="Sonatina per clarinetto di J. Horovitz" /><published>2021-11-25T12:39:00+01:00</published><updated>2021-11-25T12:39:00+01:00</updated><id>https://matteospanio.github.io/blog/2021/horovitz</id><content type="html" xml:base="https://matteospanio.github.io/blog/2021/horovitz/">&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://matteospanio.github.io/assets/audio/horovitz.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
-&lt;h2 id=&quot;contestualizzazione&quot;&gt;Contestualizzazione&lt;/h2&gt;
-
-&lt;p&gt;La Sonatina (1981) è una delle numerose opere scritte come risultato di una continua amicizia tra Horovitz e il clarinettista Gervase De Peyer. I due si conobbero al RCM quando erano studenti (De Peyer ha studiato clarinetto con Frederick Thurston), e poi a Parigi (dove De Peyer studiò con Louis Cahuzac). L’opera è dedicata alla moglie di Horovitz, Anna.&lt;/p&gt;
-
-&lt;h2 id=&quot;breve-analisi&quot;&gt;Breve Analisi&lt;/h2&gt;
-
-&lt;p&gt;La Sonatina è spensierata e segue uno schema tradizionale della divisione in tre movimenti. La prima, in forma classica di sonata, si concentra sul registro medio del clarinetto, prevalentemente lirico su uno sfondo increspato di pianoforte.
-Il secondo movimento è una struttura di canzone A-B-A che impiega alcune delle note più basse dello strumento a fiato in una lunga cantilena su un lento accompagnamento di accordi. Il finale è una sorta di rondò che alterna due temi in eguali proporzioni, sfruttando il registro acuto del clarinetto. L’idioma armonico dell’intero lavoro è ovviamente tonale e, come le altre composizioni più recenti dell’autore, la Sonatina è melodicamente e ritmicamente molto influenzata dal jazz e da altra musica popolare. Richiede uguale virtuosismo da parte di entrambi i musicisti&lt;/p&gt;
-
-&lt;h2 id=&quot;partitura&quot;&gt;Partitura&lt;/h2&gt;
-
-&lt;div class=&quot;publications&quot;&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm-2 abbr&quot;&gt;
-  
-    
-    &lt;abbr class=&quot;badge&quot;&gt;Score&lt;/abbr&gt;
-    
-  
-  &lt;/div&gt;
-
-  &lt;div id=&quot;horovitz&quot; class=&quot;col-sm-8&quot;&gt;
-    
-      &lt;div class=&quot;title&quot;&gt;Sonatina for clarinet and piano&lt;/div&gt;
-      &lt;div class=&quot;author&quot;&gt;
-        
-          
-          
-          
-          
-          
-          
-            
-              Horovitz, Joseph
-            
-          
-        
-      &lt;/div&gt;
-
-      &lt;div class=&quot;periodical&quot;&gt;
-      
-      
-      
-        1982
-      
-      &lt;/div&gt;
-    
-
-    &lt;div class=&quot;links&quot;&gt;
-    
-    
-    
-    
-    
-      
-      &lt;a href=&quot;/assets/pdf/HOROVITZ-Sonatina-pdf.pdf&quot; class=&quot;btn btn-sm z-depth-0&quot; role=&quot;button&quot;&gt;PDF&lt;/a&gt;
-      
-    
-    
-    
-    
-    
-    
-    
-    &lt;/div&gt;
-
-    &lt;!-- Hidden abstract block --&gt;
-    
-
-    &lt;!-- Hidden bibtex block --&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;&lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Matteo Spanio</name></author><summary type="html">Your browser does not support the audio element. Contestualizzazione</summary></entry><entry><title type="html">Sonata per clarinetto di L. Bernstein</title><link href="https://matteospanio.github.io/blog/2021/bernstein/" rel="alternate" type="text/html" title="Sonata per clarinetto di L. Bernstein" /><published>2021-11-25T11:39:00+01:00</published><updated>2021-11-25T11:39:00+01:00</updated><id>https://matteospanio.github.io/blog/2021/bernstein</id><content type="html" xml:base="https://matteospanio.github.io/blog/2021/bernstein/">&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://matteospanio.github.io/assets/audio/bernstein.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
-
-&lt;h2 id=&quot;contestualizzazione&quot;&gt;Contestualizzazione&lt;/h2&gt;
-
-&lt;p&gt;Negli anni Quaranta e Cinquanta, l’era delle big band stava pian piano lasciando spazio al bebop e al rock’n’roll, i giganti del clarinetto come Benny Goodman e Woody Herman iniziarono allora a scrivere e commissionare pezzi di musica classica, sia per ampliare il loro pubblico, sia per contribuire alla crescita della letteratura del loro strumento.&lt;/p&gt;
-
-&lt;p&gt;Ispirati da questo contesto culturale allora autori come Leonard Bernstein e Aaron Copland iniziarono a scrivere per questi committenti con un linguaggio misto che non era nè dichiaratamente classico nè apertamente jazz, ma una via di mezzo, un terza opzione.&lt;/p&gt;
-
-&lt;h2 id=&quot;breve-analisi&quot;&gt;Breve Analisi&lt;/h2&gt;
-
-&lt;p&gt;La Sonata per clarinetto e pianoforte di Leonard Bernstein, scritta tra il 1941 e il 1942 e pubblicata nel 1942, fu il primo brano pubblicato da Bernstein. È dedicato al clarinettista David Oppenheim, che Bernstein incontrò mentre studiava direzione d’orchestra con Sergej Kusevickij a Tanglewood durante le estati del 1940 e del 1941.&lt;/p&gt;
-
-&lt;p&gt;Il brano dura una decina di minuti e si compone di due movimenti consecutivi. Il primo movimento è un lirico grazioso, che si apre con una linea musicale che ricorda Paul Hindemith, che era il compositore residente a Tanglewood nel 1941, e allude all’influenza di Copland e all’idilliaca atmosfera di Tanglewood.&lt;d-cite key=&quot;bernstein1&quot;&gt;&lt;/d-cite&gt; Il secondo movimento inizia con andantino (tempo in chiave $\frac{3}{8}$) e si sposta in un veloce Vivace e leggiero dopo un’apertura tranquilla. Questo movimento è prevalentemente in $\frac{5}{8}$ ma cambia anche tra $\frac{6}{8}$, $\frac{4}{8}$ e $\frac{7}{8}$ in tutto il pezzo e prefigura il lavoro di Bernstein in West Side Story, con una linea di basso molto mobile e sincopi. Successivamente ricorre lo stato d’animo più riflessivo del primo movimento, con un passaggio di ponte infuso di latino che riflette il tempo trascorso da Bernstein a Key West nelle prime fasi compositive, prima di finire in bellezza.
-Bernstein tornò in seguito a comporre per clarinetto nel 1949, quando compose &lt;em&gt;Prelude, Fugue &amp;amp; Riffs&lt;/em&gt; per clarinetto solista e jazz ensemble, dedicati prima a Woody Herman e poi a Benny Goodman.&lt;/p&gt;
-
-&lt;div class=&quot;row mt-3&quot;&gt;
-
-
-
-&lt;img class=&quot;img-fluid rounded z-depth-1&quot; src=&quot;/assets/resized/bernsteinsonata-480x628.jpg&quot; srcset=&quot;    /assets/resized/bernsteinsonata-480x628.jpg 480w,/ assets/img/bernsteinsonata.jpg 611w&quot; data-zoomable=&quot;&quot; /&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt;
-    Copertina del manoscritto della sonata per clarinetto di Bernstein
-&lt;/div&gt;
-
-&lt;h2 id=&quot;partitura&quot;&gt;Partitura&lt;/h2&gt;
-
-&lt;div class=&quot;publications&quot;&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm-2 abbr&quot;&gt;
-  
-    
-    &lt;abbr class=&quot;badge&quot;&gt;Score&lt;/abbr&gt;
-    
-  
-  &lt;/div&gt;
-
-  &lt;div id=&quot;bernstein_score&quot; class=&quot;col-sm-8&quot;&gt;
-    
-      &lt;div class=&quot;title&quot;&gt;Sonata for Clarinet and Piano&lt;/div&gt;
-      &lt;div class=&quot;author&quot;&gt;
-        
-          
-          
-          
-          
-          
-          
-            
-              Bernstein, Leonard
-            
-          
-        
-      &lt;/div&gt;
-
-      &lt;div class=&quot;periodical&quot;&gt;
-      
-      
-      
-        1943
-      
-      &lt;/div&gt;
-    
-
-    &lt;div class=&quot;links&quot;&gt;
-    
-    
-    
-    
-    
-      
-      &lt;a href=&quot;/assets/pdf/bernstein_Clarinet_Sonata_score.pdf&quot; class=&quot;btn btn-sm z-depth-0&quot; role=&quot;button&quot;&gt;PDF&lt;/a&gt;
-      
-    
-    
-    
-    
-    
-    
-    
-    &lt;/div&gt;
-
-    &lt;!-- Hidden abstract block --&gt;
-    
-
-    &lt;!-- Hidden bibtex block --&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;&lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Matteo Spanio</name></author><summary type="html">Your browser does not support the audio element.</summary></entry><entry><title type="html">Concerto per Clarinetto di A. Shaw</title><link href="https://matteospanio.github.io/blog/2021/artie-shaw/" rel="alternate" type="text/html" title="Concerto per Clarinetto di A. Shaw" /><published>2021-11-25T10:39:00+01:00</published><updated>2021-11-25T10:39:00+01:00</updated><id>https://matteospanio.github.io/blog/2021/artie-shaw</id><content type="html" xml:base="https://matteospanio.github.io/blog/2021/artie-shaw/">&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://matteospanio.github.io/assets/audio/artie-shaw.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt;
-&lt;h2 id=&quot;contestualizzazione&quot;&gt;Contestualizzazione&lt;/h2&gt;
-
-&lt;p&gt;Artie Shaw, irrequieto e progressista, cambiò spesso il personale nelle sue band, sempre alla ricerca di nuove sonorità.&lt;d-cite key=&quot;hoeprich&quot;&gt;&lt;/d-cite&gt; Come Benny Goodman, Shaw ha assunto musicisti afroamericani in un momento in cui era considerato controverso. Billie Holiday, i trombettisti Hot Lips Page e Roy Eldrige andarono in tournée con Shaw negli anni ‘30. La sua musica differiva da quella di Goodman e spesso il grande pubblico si divideva in battaglie di preferenze degli idoli, ma nel controllo e virtuosismo non vi era alcun dubbio che Artie Shaw fosse il primo. Una serie di successi, &lt;em&gt;Begin the Beguine&lt;/em&gt;, &lt;em&gt;Frenesi&lt;/em&gt; e &lt;em&gt;Stardust&lt;/em&gt;, ha reso Shaw un nome familiare. L’altissimo do alla fine del suo &lt;em&gt;Concerto per clarinetto&lt;/em&gt; è diventato leggendario, così come il suo senso del tempo e la sua disinvoltura. Senza contare poi le relazioni con le grandi star di Hollywood, come Lana Turner e Ava Gardner, che aggiungevano prestigio a Shaw. Anche la sua rivalità con Benny Goodman era leggendaria. In un momento di slancio critico, Shaw una volta osservò di Goodman: “Tu suoni il clarinetto. Io faccio musica”.&lt;d-cite key=&quot;hoeprich&quot;&gt;&lt;/d-cite&gt; Le pressioni della celebrità e la difficoltà ad affrontare le vicissitudini del mondo della musica sono descritte in un candido resoconto delle sue esperienze, &lt;em&gt;The Trouble with Cinderella&lt;/em&gt; (1952). Shaw si ritirò dal palco nel 1955, passando a una carriera di successo nella scrittura e produzione di film.&lt;/p&gt;
-
-&lt;h2 id=&quot;breve-descrizione&quot;&gt;Breve Descrizione&lt;/h2&gt;
-
-&lt;p&gt;Il Concerto per clarinetto è una composizione per clarinetto e orchestra jazz del 1936. Si tratta di un ``pastiche’’ messo insieme da alcuni blues boogie-woogie, cadenze di clarinetto accompagnate dalla batteria e un accumulo di semplici riff verso la fine, il tutto avvolto in cadenze virtuose di apertura e chiusura per il clarinetto.&lt;/p&gt;
-
-&lt;p&gt;L’ensemble per il quale è stato composto il pezzo è stata la prima orchestra di Artie Shaw, chiamata Artie Shaw e la sua orchestra. Questo gruppo jazz era composto da 3 trombe, 3 tromboni, 1 clarinetto (lo stesso Artie Shaw), 2 sassofoni contralti, 2 sassofoni tenore, 6 violini, 2 viole, 1 violoncello e 1 pianoforte; un totale di 21 musicisti.&lt;/p&gt;
-
-&lt;p&gt;Ma questo concerto è stato suonato così tante volte che molti arrangiamenti sono stati fatti con strumentazioni molto diverse. Alcuni sono stati realizzati per orchestra sinfonica, altri per pianoforte e clarinetto, altri per orchestra folk… Lo stesso Artie Shaw ha cambiato i membri e gli strumenti del suo gruppo, quindi ha dovuto ri-strumentare il concerto numerose volte per l’orchestra del momento.&lt;/p&gt;
-
-&lt;p&gt;Va notato che il gruppo che ha dato questo concerto per la prima volta nel 1936, è la prima orchestra di Shaw, quella che è stata un fallimento. E sebbene il Concerto per clarinetto e orchestra di Artie Shaw fosse una delle sue opere più famose, al momento della sua prima, il pubblico non vi prestò molta attenzione. Fu solo nel 1938, quando Artie Shaw cambiò i musicisti nel suo gruppo, che divenne famoso, grazie alla versione della famosa canzone Begin the Beguine di Cole Porter.
-Da quell’anno acquisì fama e popolarità, una reputazione che gli permise di fare cover di brani più vecchi ma ben lavorati, come questo concerto per clarinetto e orchestra.&lt;/p&gt;
-
-&lt;h2 id=&quot;partitura&quot;&gt;Partitura&lt;/h2&gt;
-
-&lt;div class=&quot;publications&quot;&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm-2 abbr&quot;&gt;
-  
-    
-    &lt;abbr class=&quot;badge&quot;&gt;Score&lt;/abbr&gt;
-    
-  
-  &lt;/div&gt;
-
-  &lt;div id=&quot;artie_shaw&quot; class=&quot;col-sm-8&quot;&gt;
-    
-      &lt;div class=&quot;title&quot;&gt;Concerto for Clarinet&lt;/div&gt;
-      &lt;div class=&quot;author&quot;&gt;
-        
-          
-          
-          
-          
-          
-          
-            
-              Shaw, Artie
-            
-          
-        
-      &lt;/div&gt;
-
-      &lt;div class=&quot;periodical&quot;&gt;
-      
-      
-      
-        1942
-      
-      &lt;/div&gt;
-    
-
-    &lt;div class=&quot;links&quot;&gt;
-    
-    
-    
-    
-    
-      
-      &lt;a href=&quot;/assets/pdf/Artie-Shaw-concerto.pdf&quot; class=&quot;btn btn-sm z-depth-0&quot; role=&quot;button&quot;&gt;PDF&lt;/a&gt;
-      
-    
-    
-    
-    
-    
-    
-    
-    &lt;/div&gt;
-
-    &lt;!-- Hidden abstract block --&gt;
-    
-
-    &lt;!-- Hidden bibtex block --&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;&lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Matteo Spanio</name></author><summary type="html">Your browser does not support the audio element. Contestualizzazione</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml"/><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en"/><updated>2023-07-23T09:12:44+00:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">a post with bibliography</title><link href="https://alshedivat.github.io/al-folio/blog/2023/post-bibliography/" rel="alternate" type="text/html" title="a post with bibliography"/><published>2023-07-12T13:56:00+00:00</published><updated>2023-07-12T13:56:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/post-bibliography</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/post-bibliography/"><![CDATA[<p>This post shows how to add bibliography to simple blog posts. If you would like something more academic, check the <a href="/al-folio/blog/2021/distill/">distill style post</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="bib"/><summary type="html"><![CDATA[an example of a blog post with bibliography]]></summary></entry><entry><title type="html">a post with jupyter notebook</title><link href="https://alshedivat.github.io/al-folio/blog/2023/jupyter-notebook/" rel="alternate" type="text/html" title="a post with jupyter notebook"/><published>2023-07-04T12:57:00+00:00</published><updated>2023-07-04T12:57:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/jupyter-notebook</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/jupyter-notebook/"><![CDATA[<p>To include a jupyter notebook in a post, you can use the following code:</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{::nomarkdown}
+{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
+{% if notebook_exists == "true" %}
+    {% jupyter_notebook jupyter_path %}
+{% else %}
+    <span class="nt">&lt;p&gt;</span>Sorry, the notebook you are looking for does not exist.<span class="nt">&lt;/p&gt;</span>
+{% endif %}
+{:/nomarkdown}
+</code></pre></div></div> <p>Let’s break it down: this is possible thanks to <a href="https://github.com/red-data-tools/jekyll-jupyter-notebook">Jekyll Jupyter Notebook plugin</a> that allows you to embed jupyter notebooks in your posts. It basically calls <a href="https://nbconvert.readthedocs.io/en/latest/usage.html#convert-html"><code class="language-plaintext highlighter-rouge">jupyter nbconvert --to html</code></a> to convert the notebook to an html page and then includes it in the post. Since <a href="https://jekyllrb.com/docs/configuration/markdown/">Kramdown</a> is the default Markdown renderer for Jekyll, we need to surround the call to the plugin with the <a href="https://kramdown.gettalong.org/syntax.html#extensions">::nomarkdown</a> tag so that it stops processing this part with Kramdown and outputs the content as-is.</p> <p>The plugin takes as input the path to the notebook, but it assumes the file exists. If you want to check if the file exists before calling the plugin, you can use the <code class="language-plaintext highlighter-rouge">file_exists</code> filter. This avoids getting a 404 error from the plugin and ending up displaying the main page inside of it instead. If the file does not exist, you can output a message to the user. The code displayed above outputs the following:</p> <div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;"> <div class="jupyter-notebook-iframe-container"> <iframe src="/al-folio/assets/jupyter/blog.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe> </div> </div> <p>Note that the jupyter notebook supports both light and dark themes.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="jupyter"/><summary type="html"><![CDATA[an example of a blog post with jupyter notebook]]></summary></entry><entry><title type="html">a post with custom blockquotes</title><link href="https://alshedivat.github.io/al-folio/blog/2023/custom-blockquotes/" rel="alternate" type="text/html" title="a post with custom blockquotes"/><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/custom-blockquotes</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/custom-blockquotes/"><![CDATA[<p>This post shows how to add custom styles for blockquotes. Based on <a href="https://github.com/sighingnow/jekyll-gitbook">jekyll-gitbook</a> implementation.</p> <p>We decided to support the same custom blockquotes as in <a href="https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html">jekyll-gitbook</a>, which are also found in a lot of other sites’ styles. The styles definitions can be found on the <a href="https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss">_base.scss</a> file, more specifically:</p> <div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/* Tips, warnings, and dangers */</span>
+<span class="nc">.post</span> <span class="nc">.post-content</span> <span class="nt">blockquote</span> <span class="p">{</span>
+    <span class="k">&amp;</span><span class="nc">.block-tip</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="k">&amp;</span><span class="nc">.block-warning</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="k">&amp;</span><span class="nc">.block-danger</span> <span class="p">{</span>
+    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block</span><span class="p">);</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-bg</span><span class="p">);</span>
+
+    <span class="nt">p</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-text</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
+      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-title</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div> <p>A regular blockquote can be used as following:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; This is a regular blockquote</span>
+<span class="gt">&gt; and it can be used as usual</span>
+</code></pre></div></div> <blockquote> <p>This is a regular blockquote and it can be used as usual</p> </blockquote> <p>These custom styles can be used by adding the specific class to the blockquote, as follows:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### TIP</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; A tip can be used when you want to give advice</span>
+<span class="gt">&gt; related to a certain content.</span>
+{: .block-tip }
+</code></pre></div></div> <blockquote class="block-tip"> <h5 id="tip">TIP</h5> <p>A tip can be used when you want to give advice related to a certain content.</p> </blockquote> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### WARNING</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; This is a warning, and thus should</span>
+<span class="gt">&gt; be used when you want to warn the user</span>
+{: .block-warning }
+</code></pre></div></div> <blockquote class="block-warning"> <h5 id="warning">WARNING</h5> <p>This is a warning, and thus should be used when you want to warn the user</p> </blockquote> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### DANGER</span>
+<span class="gt">&gt;</span>
+<span class="gt">&gt; This is a danger zone, and thus should</span>
+<span class="gt">&gt; be used carefully</span>
+{: .block-danger }
+</code></pre></div></div> <blockquote class="block-danger"> <h5 id="danger">DANGER</h5> <p>This is a danger zone, and thus should be used carefully</p> </blockquote>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="blockquotes"/><summary type="html"><![CDATA[an example of a blog post with custom blockquotes]]></summary></entry><entry><title type="html">a post with table of contents on a sidebar</title><link href="https://alshedivat.github.io/al-folio/blog/2023/sidebar-table-of-contents/" rel="alternate" type="text/html" title="a post with table of contents on a sidebar"/><published>2023-04-25T14:14:00+00:00</published><updated>2023-04-25T14:14:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/sidebar-table-of-contents</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/sidebar-table-of-contents/"><![CDATA[<p>This post shows how to add a table of contents as a sidebar.</p> <h2 id="adding-a-table-of-contents">Adding a Table of Contents</h2> <p>To add a table of contents to a post as a sidebar, simply add</p> <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">toc</span><span class="pi">:</span>
+  <span class="na">sidebar</span><span class="pi">:</span> <span class="s">left</span>
+</code></pre></div></div> <p>to the front matter of the post. The table of contents will be automatically generated from the headings in the post. If you wish to display the sidebar to the right, simply change <code class="language-plaintext highlighter-rouge">left</code> to <code class="language-plaintext highlighter-rouge">right</code>.</p> <h3 id="example-of-sub-heading-1">Example of Sub-Heading 1</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h3 id="example-of-another-sub-heading-1">Example of another Sub-Heading 1</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h2 data-toc-text="Customizing" id="customizing-your-table-of-contents">Customizing Your Table of Contents</h2> <p>If you want to learn more about how to customize the table of contents of your sidebar, you can check the <a href="https://afeld.github.io/bootstrap-toc/">bootstrap-toc</a> documentation. Notice that you can even customize the text of the heading that will be displayed on the sidebar.</p> <h3 id="example-of-sub-heading-2">Example of Sub-Heading 2</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h3 id="example-of-another-sub-heading-2">Example of another Sub-Heading 2</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="toc"/><category term="sidebar"/><summary type="html"><![CDATA[an example of a blog post with table of contents on a sidebar]]></summary></entry><entry><title type="html">a post with audios</title><link href="https://alshedivat.github.io/al-folio/blog/2023/audios/" rel="alternate" type="text/html" title="a post with audios"/><published>2023-04-25T10:25:00+00:00</published><updated>2023-04-25T10:25:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/audios</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/audios/"><![CDATA[<p>This is an example post with audios. It supports local audio files.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <audio src="/al-folio/assets/audio/epicaly-short-113909.mp3" controls=""/> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <audio src="https://cdn.pixabay.com/download/audio/2022/06/25/audio_69a61cd6d6.mp3" controls=""/> </figure> </div> </div> <div class="caption"> A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all. </div>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="audios"/><summary type="html"><![CDATA[this is what included audios could look like]]></summary></entry><entry><title type="html">a post with videos</title><link href="https://alshedivat.github.io/al-folio/blog/2023/videos/" rel="alternate" type="text/html" title="a post with videos"/><published>2023-04-24T21:01:00+00:00</published><updated>2023-04-24T21:01:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/videos</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/videos/"><![CDATA[<p>This is an example post with videos. It supports local video files.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/al-folio/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls=""/> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/al-folio/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" controls=""/> </figure> </div> </div> <div class="caption"> A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all. </div> <p>It does also support embedding videos from different sources. Here are some examples:</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="auto" height="auto"/> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <iframe src="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&amp;title=0&amp;byline=0&amp;portrait=0" class="img-fluid rounded z-depth-1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="auto" height="auto"/> </figure> </div> </div>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="videos"/><summary type="html"><![CDATA[this is what included videos could look like]]></summary></entry><entry><title type="html">displaying beautiful tables with Bootstrap Tables</title><link href="https://alshedivat.github.io/al-folio/blog/2023/tables/" rel="alternate" type="text/html" title="displaying beautiful tables with Bootstrap Tables"/><published>2023-03-20T18:37:00+00:00</published><updated>2023-03-20T18:37:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/tables</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/tables/"><![CDATA[<p>Using markdown to display tables is easy. Just use the following syntax:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>| Left aligned | Center aligned | Right aligned |
+| :----------- | :------------: | ------------: |
+| Left 1       | center 1       | right 1       |
+| Left 2       | center 2       | right 2       |
+| Left 3       | center 3       | right 3       |
+</code></pre></div></div> <p>That will generate:</p> <table> <thead> <tr> <th style="text-align: left">Left aligned</th> <th style="text-align: center">Center aligned</th> <th style="text-align: right">Right aligned</th> </tr> </thead> <tbody> <tr> <td style="text-align: left">Left 1</td> <td style="text-align: center">center 1</td> <td style="text-align: right">right 1</td> </tr> <tr> <td style="text-align: left">Left 2</td> <td style="text-align: center">center 2</td> <td style="text-align: right">right 2</td> </tr> <tr> <td style="text-align: left">Left 3</td> <td style="text-align: center">center 3</td> <td style="text-align: right">right 3</td> </tr> </tbody> </table> <p></p> <p>It is also possible to use HTML to display tables. For example, the following HTML code will display a table with <a href="https://bootstrap-table.com/">Bootstrap Table</a>, loaded from a JSON file:</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;table</span>
+  <span class="na">id=</span><span class="s">"table"</span>
+  <span class="na">data-toggle=</span><span class="s">"table"</span>
+  <span class="na">data-url=</span><span class="s">"{{ '/assets/json/table_data.json' | relative_url }}"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;thead&gt;</span>
+    <span class="nt">&lt;tr&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"id"</span><span class="nt">&gt;</span>ID<span class="nt">&lt;/th&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"name"</span><span class="nt">&gt;</span>Item Name<span class="nt">&lt;/th&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"price"</span><span class="nt">&gt;</span>Item Price<span class="nt">&lt;/th&gt;</span>
+    <span class="nt">&lt;/tr&gt;</span>
+  <span class="nt">&lt;/thead&gt;</span>
+<span class="nt">&lt;/table&gt;</span>
+</code></pre></div></div> <table data-toggle="table" data-url="/al-folio/assets/json/table_data.json"> <thead> <tr> <th data-field="id">ID</th> <th data-field="name">Item Name</th> <th data-field="price">Item Price</th> </tr> </thead> </table> <p></p> <p>By using <a href="https://bootstrap-table.com/">Bootstrap Table</a> it is possible to create pretty complex tables, with pagination, search, and more. For example, the following HTML code will display a table, loaded from a JSON file, with pagination, search, checkboxes, and header/content alignment. For more information, check the <a href="https://examples.bootstrap-table.com/index.html">documentation</a>.</p> <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;table</span>
+  <span class="na">data-click-to-select=</span><span class="s">"true"</span>
+  <span class="na">data-height=</span><span class="s">"460"</span>
+  <span class="na">data-pagination=</span><span class="s">"true"</span>
+  <span class="na">data-search=</span><span class="s">"true"</span>
+  <span class="na">data-toggle=</span><span class="s">"table"</span>
+  <span class="na">data-url=</span><span class="s">"{{ '/assets/json/table_data.json' | relative_url }}"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;thead&gt;</span>
+    <span class="nt">&lt;tr&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-checkbox=</span><span class="s">"true"</span><span class="nt">&gt;&lt;/th&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"id"</span> <span class="na">data-halign=</span><span class="s">"left"</span> <span class="na">data-align=</span><span class="s">"center"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>ID<span class="nt">&lt;/th&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"name"</span> <span class="na">data-halign=</span><span class="s">"center"</span> <span class="na">data-align=</span><span class="s">"right"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>Item Name<span class="nt">&lt;/th&gt;</span>
+      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"price"</span> <span class="na">data-halign=</span><span class="s">"right"</span> <span class="na">data-align=</span><span class="s">"left"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>Item Price<span class="nt">&lt;/th&gt;</span>
+    <span class="nt">&lt;/tr&gt;</span>
+  <span class="nt">&lt;/thead&gt;</span>
+<span class="nt">&lt;/table&gt;</span>
+</code></pre></div></div> <table data-click-to-select="true" data-height="460" data-pagination="true" data-search="true" data-toggle="table" data-url="/al-folio/assets/json/table_data.json"> <thead> <tr> <th data-checkbox="true"></th> <th data-field="id" data-halign="left" data-align="center" data-sortable="true">ID</th> <th data-field="name" data-halign="center" data-align="right" data-sortable="true">Item Name</th> <th data-field="price" data-halign="right" data-align="left" data-sortable="true">Item Price</th> </tr> </thead> </table>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="tables"/><summary type="html"><![CDATA[an example of how to use Bootstrap Tables]]></summary></entry><entry><title type="html">a post with table of contents</title><link href="https://alshedivat.github.io/al-folio/blog/2023/table-of-contents/" rel="alternate" type="text/html" title="a post with table of contents"/><published>2023-03-20T15:59:00+00:00</published><updated>2023-03-20T15:59:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2023/table-of-contents</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2023/table-of-contents/"><![CDATA[<p>This post shows how to add a table of contents in the beginning of the post.</p> <h2 id="adding-a-table-of-contents">Adding a Table of Contents</h2> <p>To add a table of contents to a post, simply add</p> <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">toc</span><span class="pi">:</span>
+  <span class="na">beginning</span><span class="pi">:</span> <span class="kc">true</span>
+</code></pre></div></div> <p>to the front matter of the post. The table of contents will be automatically generated from the headings in the post.</p> <h3 id="example-of-sub-heading-1">Example of Sub-Heading 1</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h3 id="example-of-another-sub-heading-1">Example of another Sub-Heading 1</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h2 id="table-of-contents-options">Table of Contents Options</h2> <p>If you want to learn more about how to customize the table of contents, you can check the <a href="https://github.com/toshimaru/jekyll-toc">jekyll-toc</a> repository.</p> <h3 id="example-of-sub-heading-2">Example of Sub-Heading 2</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p> <h3 id="example-of-another-sub-heading-2">Example of another Sub-Heading 2</h3> <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="toc"/><summary type="html"><![CDATA[an example of a blog post with table of contents]]></summary></entry><entry><title type="html">a post with giscus comments</title><link href="https://alshedivat.github.io/al-folio/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments"/><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2022/giscus-comments</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="external-services"/><category term="comments"/><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog"/><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
