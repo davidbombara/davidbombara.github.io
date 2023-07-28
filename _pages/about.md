@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <p class="p-0 m-0"><a href='http://csc.dei.unipd.it/'>Centro di Sonologia Computazionale</a>.</p>
-  <p class="p-0 m-0"><a href='#'>Department of Information Engineering.</a></p>
-  <p class="p-0 m-0 mb-2"><a href='#'>University of Padua.</a></p>
+subtitle: # >
+  # <p class="p-0 m-0"><a href='http://csc.dei.unipd.it/'>Centro di Sonologia Computazionale</a>.</p>
+  # <p class="p-0 m-0"><a href='#'>Department of Information Engineering.</a></p>
+  # <p class="p-0 m-0 mb-2"><a href='#'>University of Padua.</a></p>
 
 profile:
   align: right
@@ -22,8 +22,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there, I'm Matteo Spanio, software engineer at [Audio Innova](https://www.audioinnova.com/en/) and student of the [Master's Degree in Computer Engineering](https://www.unipd.it/en/computer-engineering) at the [University of Padua](https://www.unipd.it/en/). I'm interested in:
+- 🤖 machine learning,
+- 📡 signal processing,
+- 🕵️‍♀️ cyber security,
+- 🎹 music.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm also a musician, and I play the clarinet on a regular basis in many orchestras and ensembles (Orchestra di Padova e del Veneto, Orchestra del Friuli Venezia Giulia, Orchestra San Marco, Concordia Chamber Orchestra, Rossini Ensemble and many others).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm member of the [MPAI group](https://mpai.community), the international, unaffiliated, no-profit organisation developing standards for AI-based data coding.
+
+To see my work, check out my [projects]({{ site.baseurl }}/projects/) and [publications]({{ site.baseurl }}/publications/). Time permitting, I also write [blog posts]({{ site.baseurl }}/blog/).
