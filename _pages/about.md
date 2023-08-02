@@ -22,14 +22,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Matteo Spanio, software engineer at [Audio Innova](https://www.audioinnova.com/en/) and student of the [Master's Degree in Computer Engineering](https://www.unipd.it/en/computer-engineering) at the [University of Padua](https://www.unipd.it/en/). I'm interested in:
+Hi there, I'm David Bombara, Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I received a bachelor's and master's degree in mechanical engineering at the [University of Nevada, Reno](https://www.unr.edu/). I'm interested in:
 - 🤖 machine learning,
 - 📡 signal processing,
 - 🕵️‍♀️ cyber security,
 - 🎹 music.
-
-I'm also a musician, and I play the clarinet on a regular basis in many orchestras and ensembles (Orchestra di Padova e del Veneto, Orchestra del Friuli Venezia Giulia, Orchestra San Marco, Concordia Chamber Orchestra, Rossini Ensemble and many others).
-
-I'm member of the [MPAI group](https://mpai.community), the international, unaffiliated, no-profit organisation developing standards for AI-based data coding.
 
 To see my work, check out my [projects]({{ site.baseurl }}/projects/) and [publications]({{ site.baseurl }}/publications/). Time permitting, I also write [blog posts]({{ site.baseurl }}/blog/).
