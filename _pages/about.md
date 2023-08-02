@@ -22,10 +22,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm David Bombara, Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I received a bachelor's and master's degree in mechanical engineering at the [University of Nevada, Reno](https://www.unr.edu/). I'm interested in:
-- 🤖 machine learning,
-- 📡 signal processing,
-- 🕵️‍♀️ cyber security,
-- 🎹 music.
+Hi there, I'm David Bombara, Ph.D. student at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I received a bachelor's and master's degree in mechanical engineering at the [University of Nevada, Reno](https://www.unr.edu/).
 
 To see my work, check out my [projects]({{ site.baseurl }}/projects/) and [publications]({{ site.baseurl }}/publications/). Time permitting, I also write [blog posts]({{ site.baseurl }}/blog/).
