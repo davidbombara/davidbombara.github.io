@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student advised by [Dr. Heng Yang](https://hankyang.seas.harvard.edu/) in the [Computational Robotics Lab](https://hankyang.seas.harvard.edu/group/) at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). During my Ph.D., I am supported by the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the Harvard Graduate Prize Fellowship.
+I am a Ph.D. student advised by [Dr. Heng Yang](https://hankyang.seas.harvard.edu/) in the [Computational Robotics Lab](https://hankyang.seas.harvard.edu/group/) at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I am supported by the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the Harvard Graduate Prize Fellowship.
 
 Before coming to Harvard, I completed a master's degree advised by [Dr. Jun Zhang](https://packpages.unr.edu/jun) in the [Department of Mechanical Engineering](https://www.unr.edu/me) at the [University of Nevada, Reno](https://www.unr.edu/) (UNR). UNR is my alma mater, where I also received a bachelor's in mechanical engineering. 
 
