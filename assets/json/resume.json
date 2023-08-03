@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Matteo Spanio",
-    "label": "Software engineer",
+    "name": "David Bombara",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "spanio@dei.unipd.it",
+    "email": "davidbombara@g.harvard.edu",
     "phone": "",
-    "url": "https://matteospanio.github.io/",
+    "url": "https://davidbombara.github.io/",
     "summary": "Hybrid musician and software engineer with a passion for music and technology. His fields of interested are artificial intelligence, cybersecurity, and music production.",
     "location": {
-      "address": "Via Gradenigo 6/b",
-      "postalCode": "35131",
-      "city": "Padua",
-      "countryCode": "IT",
-      "region": "Veneto"
+      "address": "150 Western Ave.",
+      "postalCode": "02134",
+      "city": "Cambridge",
+      "countryCode": "MA",
+      "region": "USA"
     },
     "profiles": [
       {
-        "network": "Facebook",
-        "username": "matteo.spanio.user",
+        "network": "LinkedIn",
+        "username": "david-bombara-jr",
         "url": "https://www.facebook.com/matteo.spanio.user"
       }
     ]
@@ -124,16 +124,7 @@
   ],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Italian",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent (B2)"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
