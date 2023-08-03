@@ -12,7 +12,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Cambridge, Massachusetts, USA</p>
+    <p>Photo from NASA Johnson Space Center, 2022</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
