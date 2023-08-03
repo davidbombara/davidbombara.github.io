@@ -103,7 +103,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: 717710883685400638 # your discord id (18-digit unique numerical identifier)
+discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
@@ -161,7 +161,7 @@ disqus_shortname: davidsblob # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   # - name: dev.to
-    # rss_url: dev.to/feed/matteospanio
+    # rss_url:
 
 # -----------------------------------------------------------------------------
 # Collections

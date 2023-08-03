@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: # >
   # <p class="p-0 m-0"><a href='http://csc.dei.unipd.it/'>Centro di Sonologia Computazionale</a>.</p>
-  # <p class="p-0 m-0"><a href='#'>Department of Information Engineering.</a></p>
-  # <p class="p-0 m-0 mb-2"><a href='#'>University of Padua.</a></p>
+  # <p class="p-0 m-0"><a href='#'>School of Engineering and Applied Sciences.</a></p>
+  # <p class="p-0 m-0 mb-2"><a href='#'>Harvard University</a></p>
 
 profile:
   align: right
