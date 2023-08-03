@@ -8,11 +8,7 @@ middle_name:
 last_name: Bombara
 email: davidbombara@g.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is a very personal blog. I don't write blogs for anyone, but
-  just record what I do or what I think. So there are many things
-  wrong and you may have different thoughts. It would be nice if I
-  share knowledge and thoughts rather than criticism. It will be
-  great help if you give and teach your knowledge and thoughts to me.
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +16,7 @@ footer_text: >
 keywords: blog # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: shield_large.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://davidbombara.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
