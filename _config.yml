@@ -50,6 +50,9 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+header_pages:
+  - about.md  
+  - publications.md
 
 navbar_fixed: true
 footer_fixed: false
@@ -168,14 +171,15 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 # collections:
-  # news:
-  #  defaults:
-  #    layout: post
-  #  output: false
-  #  permalink: /news/:path/
-  #projects:
-  #  output: false
-  #  permalink: /projects/:path/
+  news:
+    defaults:
+      layout: post
+      output: false
+      permalink: /news/:path/
+  projects:
+    output: false
+    permalink: /projects/:path/
+  
 
 announcements:
   enabled: false
