@@ -10,9 +10,9 @@ subtitle: # >
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>Photo from NASA Johnson Space Center, 2022</p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
