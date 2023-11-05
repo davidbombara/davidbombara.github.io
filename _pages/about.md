@@ -22,10 +22,19 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student advised by [Dr. Heng Yang](https://hankyang.seas.harvard.edu/) in the [Computational Robotics Lab](https://hankyang.seas.harvard.edu/group/) at [Harvard University](https://harvard.edu/). 
 
-I am supported by the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the Harvard Graduate Prize Fellowship.
+My research interests lie at the intersection of [nonlinear control theory](https://en.wikipedia.org/wiki/Nonlinear_control), [online learning](https://en.wikipedia.org/wiki/Online_machine_learning), and reinforcement learning, with an emphasis on applications in robotics.
+
+### Education
 
 Before coming to Harvard, I completed a master's degree advised by [Dr. Jun Zhang](https://packpages.unr.edu/jun) in the [Department of Mechanical Engineering](https://www.unr.edu/me) at the [University of Nevada, Reno](https://www.unr.edu/) (UNR). UNR is my alma mater, where I also received a bachelor's in mechanical engineering. 
 
+### Fellowships
+
+I am currently supported by the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the Harvard Graduate Prize Fellowship.
+
 During my master's degree, I was supported by the [Graduate Dean's Merit Scholarship](https://www.unr.edu/grad/admissions/funding/awards/graduate-dean-awards) and the [NASA Space Technology Graduate Research Opportunities (NSTGRO) Program](https://www.nasa.gov/directorates/spacetech/strg/nstgro). I was fortunate to spend the summer of 2022 as a visiting researcher at [Robotic Systems Technology Branch](https://www.nasa.gov/er/er4) of [NASA Johnson Space Center](https://www.nasa.gov/centers/johnson/home/index.html).
+
+
+### Research Internships
 
 During my master's degree, I was also a (remote) intern for [NASA Langley Research Center](https://www.nasa.gov/langley), for which I completed research projects in the [Advanced Measurements and Data Systems Branch](https://amdsb.larc.nasa.gov/) under the mentorship of [Dr. Hyun Jung Kim](https://scholar.google.com/citations?hl=en&user=U8evG04AAAAJ&view_op=list_works&sortby=pubdate).
