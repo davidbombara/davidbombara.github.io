@@ -39,4 +39,4 @@ During my master's degree, I was supported by the [Graduate Dean's Merit Scholar
 
 During my master's degree, I was also a (remote) intern for [NASA Langley Research Center](https://www.nasa.gov/langley), for which I completed research projects in the [Advanced Measurements and Data Systems Branch](https://amdsb.larc.nasa.gov/) under the mentorship of [Dr. Hyun Jung Kim](https://scholar.google.com/citations?hl=en&user=U8evG04AAAAJ&view_op=list_works&sortby=pubdate).
 
-I also spent the summer of 2019 in Silicon Valley's [NASA Ames Research Center](https://www.nasa.gov/ames/), where I studied the use of mobile robotics for indoor urban search and rescue applications.
+I also spent the summer of 2019 at [NASA Ames Research Center](https://www.nasa.gov/ames/) in Silicon Valley, where I studied the use of mobile robotics for indoor urban search and rescue applications.
