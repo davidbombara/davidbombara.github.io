@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student advised by [Dr. Heng Yang](https://hankyang.seas.harvard.edu/) in the [Computational Robotics Lab](https://hankyang.seas.harvard.edu/group/) at [Harvard University](https://harvard.edu/). 
 
-My research interests lie at the intersection of [nonlinear control theory](https://en.wikipedia.org/wiki/Nonlinear_control), [online learning](https://en.wikipedia.org/wiki/Online_machine_learning), and reinforcement learning, with an emphasis on applications in robotics.
+My research interests lie at the intersection of [nonlinear control theory](https://en.wikipedia.org/wiki/Nonlinear_control), [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)/sequential decision making, and reinforcement learning, with an emphasis on applications in robotics.
 
 ### Education
 
