@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nasa-ames
+title: spam-analyzer
 description: an AI enhanced companion to find spam emails
 img: assets/img/spam-analyzer.png
 redirect: http://docs.spamanalyzer.tech
