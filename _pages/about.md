@@ -22,8 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student advised by [Dr. Heng Yang](https://hankyang.seas.harvard.edu/) in the [Computational Robotics Lab](https://hankyang.seas.harvard.edu/group/) at [Harvard University](https://harvard.edu/). 
 
-I'm broadly interested in using online machine learning to solve problems in nonlinear control theory.
-
 ### Education
 
 Before coming to Harvard, I completed a master's degree advised by [Dr. Jun Zhang](https://packpages.unr.edu/jun) in the [Department of Mechanical Engineering](https://www.unr.edu/me) at the [University of Nevada, Reno](https://www.unr.edu/) (UNR). UNR is my alma mater, where I also received a bachelor's in mechanical engineering. 
