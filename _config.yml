@@ -170,15 +170,15 @@ external_sources:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
+collections:
 #  news:
 #    defaults:
 #      layout: post
 #      output: false
 #      permalink: /news/:path/
-#  projects:
-#    output: false
-#    permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   
 
 announcements:
